@@ -1,0 +1,3 @@
+<resources>
+    <bool name="config_enableLiveDisplay">false</bool>
+</resources>
