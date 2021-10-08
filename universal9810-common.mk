@@ -103,6 +103,9 @@ PRODUCT_COPY_FILES += \
 # Soong
 PRODUCT_SOONG_NAMESPACES += $(LOCAL_PATH)
 
+# Live Wallpaper
+TARGET_INCLUDE_LIVE_WALLPAPERS := false
+
 # Property overrides
 -include $(LOCAL_PATH)/product_prop.mk
 
