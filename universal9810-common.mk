@@ -56,18 +56,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.light@2.0-service.9810
 
-# LiveDisplay
-PRODUCT_PACKAGES += \
-    lineage.livedisplay@2.0-service.samsung-exynos
-
-# Touch
-PRODUCT_PACKAGES += \
-    lineage.touch@1.0-service.9810
-
-# FastCharge
-PRODUCT_PACKAGES += \
-    lineage.fastcharge@1.0-service.9810
-
 # Trust
 PRODUCT_PACKAGES += \
     lineage.trust@1.0-service
